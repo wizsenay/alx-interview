@@ -22,7 +22,7 @@ def minOperations(n):
     """
     if n <= 1:
         return 0
-    
+
     num_of_h = 1
     count_opration = 0
     paste_num = 0
